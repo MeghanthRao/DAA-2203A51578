@@ -11,3 +11,5 @@ insertionsort.c      https://github.com/MeghanthRao/DAA-2203A51578/blob/main/Ins
 bubblesort.c         https://github.com/MeghanthRao/DAA-2203A51578/blob/main/BUBBLESORT.c
 
 ass-1(daa)sec.c      https://github.com/MeghanthRao/DAA-2203A51578/blob/main/ASS-1(DAA)SEC.c
+
+ass-1(daa).c        https://github.com/MeghanthRao/DAA-2203A51578/blob/main/ASS-1(DAA).c
