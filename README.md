@@ -6,3 +6,4 @@ binary search.c       https://github.com/MeghanthRao/DAA-2203A51578/blob/main/bi
 
 week-2-1(daa).c       https://github.com/MeghanthRao/DAA-2203A51578/blob/main/WEEK-2-1(DAA).c
 
+insertionsort.c      https://github.com/MeghanthRao/DAA-2203A51578/blob/main/Insertionsort%20(1).c
